@@ -1,0 +1,13 @@
+& "C:/Users/nafrin saniya/AppData/Local/Programs/Python/Python314/python.exe" "c:/Users/nafrin saniya/OneDrive/Desktop/quizz/quiz.py" - 0/20
+nabisa - 0/20
+abinaya - 19/20
+"C:\Users\nafrin saniya\AppData\Local\Programs\Python\Python314\python.exe" "c:/Users/nafrin saniya/OneDrive/Desktop/quizz/database.py" - 0/20
+nafrin - 18/20
+nafi - 0/20
+lavanya - 18/20
+napesa - 19/20
+rahim - 18/20
+rahim - 2/20
+asma - 2/20
+surya - 17/20
+nafrin saniya - 18/20
